@@ -7,4 +7,3 @@ did_snmm_bank is a zipped folder containing R code and data used for the bank de
 
 did_snmm_flood contains code for analyzing the dataset from Gallagher (2015). The data itself is too large to fit on github but can be obtained from IPCSR: https://www.openicpsr.org/openicpsr/project/113898/version/V1/view
 
-did_snmm_simulation.R contains code for a simulated example using machine learning for the nuisance models.
